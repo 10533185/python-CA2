@@ -1,0 +1,10 @@
+Business Rule: E-Commerce
+
+Non Functional Requirements:
+
+1.Multiple Browser support 
+2.Multiple Device support
+3.Availability of system to the customer 24/7
+
+
+
