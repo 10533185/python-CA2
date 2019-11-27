@@ -1,0 +1,10 @@
+
+
+Functional requirements
+
+supports customer registration
+can search any kind of clothes
+system supports shopping cart
+customers can checkthe status of their orders from website
+customers can write product reviews
+
