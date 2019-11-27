@@ -1,0 +1,9 @@
+Business Rule: E-Commerce
+
+Non Functional Requirements:
+
+1.Processing speed
+2.Type of data
+
+
+
