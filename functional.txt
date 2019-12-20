@@ -8,3 +8,7 @@ system supports shopping cart
 customers can checkthe status of their orders from website
 customers can write product reviews
 
+Researched the following pages:
+http://flask.palletsprojects.com/en/1.1.x/quickstart/#a-minimal-application
+https://www.restapitutorial.com/lessons/httpmethods.html
+http://flask.palletsprojects.com/en/1.1.x/installation/#installation
